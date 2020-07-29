@@ -1,0 +1,11 @@
+:root {
+    /* fonts */
+    --main-font: 'Open Sans', sans-serif;
+    --main-font-size: 14px;
+    --dark-font-color: #2D2D2D;
+  
+    /*colors*/
+    --main-light-color: rgb(255, 255, 255);
+    --main-yellow-color:rgb(253, 185, 19);
+  
+  }
